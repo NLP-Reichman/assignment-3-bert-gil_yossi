@@ -1,6 +1,6 @@
 {
   "test_link": {
-    "link": null
+    "link": "https://colab.research.google.com/drive/1BaY9N2HkIcyQYDVbiN-M9VRyF89RjXpN?usp=sharing"
   },
   "test_read_data": {
     "lengths": [
@@ -20,7 +20,7 @@
     ]
   },
   "test_model": {
-    "f1": 0.9819237336422549,
-    "f1_wo_o": 0.9433403832966486
+    "f1": 0.9831129687077877,
+    "f1_wo_o": 0.9476942215656374
   }
 }
